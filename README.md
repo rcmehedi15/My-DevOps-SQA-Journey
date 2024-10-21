@@ -8,10 +8,10 @@
 - [YAML](https://learnxinyminutes.com/docs/yaml/)
 
 ## Videos:
-1. [Computer Networking Full Course - OSI Model Deep Dive with Real-Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8) - **[Course Link]**
-2. [Learn Networking in 3 Hours | Networking Fundamentals + AWS VPC Networking](https://www.youtube.com/watch?v=iSOfkw_YyOU) - **[Course Link]**
-3. [DevOps ZERO TO HERO COURSE | Networking Fundamentals + AWS VPC Networking](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - **[Course Link]**
-4. [Introduction to Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=iwolPf6kN-k) - **[Course Link]**
-5. [Complete YAML Course - Beginner to Advanced](https://www.youtube.com/watch?v=IA90BTozdow) - **[Course Link]**
-6. [Shell Scripting for DevOps](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S) - **[Course Link]**
-7. [Top 10 Real-Time Corporate Shell Scripts in DevOps](https://www.youtube.com/watch?v=aK-lkJTfUEc&t=1017s) - **[Course Link]**
+1. Computer Networking Full Course - OSI Model Deep Dive with Real-Life Examples — [Click Here](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+2. Learn Networking in 3 Hours | Networking Fundamentals + AWS VPC Networking — [Click Here](https://www.youtube.com/watch?v=iSOfkw_YyOU)
+3. DevOps ZERO TO HERO COURSE | Networking Fundamentals + AWS VPC Networking — [Click Here](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
+4. Introduction to Linux & Terminal Commands - Full Course for Beginners — [Click Here](https://www.youtube.com/watch?v=iwolPf6kN-k)
+5. Complete YAML Course - Beginner to Advanced — [Click Here](https://www.youtube.com/watch?v=IA90BTozdow)
+6. Shell Scripting for DevOps — [Click Here](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
+7. Top 10 Real-Time Corporate Shell Scripts in DevOps — [Click Here](https://www.youtube.com/watch?v=aK-lkJTfUEc&t=1017s)
