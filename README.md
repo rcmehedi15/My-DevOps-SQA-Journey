@@ -1,4 +1,4 @@
-# My DevOps & SAQ Journey
+# My DevOps & SQA Journey
 
 ## Documentation:
 - Software Testing Tutorial — [Click Here](https://www.guru99.com/software-testing.html)
