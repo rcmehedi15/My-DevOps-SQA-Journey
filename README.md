@@ -1,11 +1,11 @@
-# My-DevOps & Cyber Security-Journey
+# My DevOps Journey
 
 ## Documentation:
-- [Mastering the DevOps Lifecycle: The Essential Roadmap for 2024](https://dev.to/patadiarushabh/mastering-the-devops-lifecycle-the-essential-roadmap-for-2024-13ia)
-- [Top 3 GitOps Tools for Infrastructure Automation in 2024](https://dev.to/flipt/top-3-gitops-tools-for-infrastructure-automation-in-2024-5h55)
-- [Linux Command Cheatsheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
-- [Linux System Administration Basics](https://www.linode.com/docs/guides/linux-system-administration-basics/)
-- [YAML](https://learnxinyminutes.com/docs/yaml/)
+- Mastering the DevOps Lifecycle: The Essential Roadmap for 2024 — [Click Here](https://dev.to/patadiarushabh/mastering-the-devops-lifecycle-the-essential-roadmap-for-2024-13ia)
+- Top 3 GitOps Tools for Infrastructure Automation in 2024 — [Click Here](https://dev.to/flipt/top-3-gitops-tools-for-infrastructure-automation-in-2024-5h55)
+- Linux Command Cheatsheet — [Click Here](https://www.guru99.com/linux-commands-cheat-sheet.html)
+- Linux System Administration Basics — [Click Here](https://www.linode.com/docs/guides/linux-system-administration-basics/)
+- YAML — [Click Here](https://learnxinyminutes.com/docs/yaml/)
 
 ## Videos:
 1. Computer Networking Full Course - OSI Model Deep Dive with Real-Life Examples — [Click Here](https://www.youtube.com/watch?v=IPvYjXCsTg8)
