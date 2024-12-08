@@ -17,5 +17,7 @@
 - Complete YAML Course - Beginner to Advanced — [Click Here](https://www.youtube.com/watch?v=IA90BTozdow)
 - Shell Scripting for DevOps — [Click Here](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIZ7u-gtpX_bozrspUbTQ1S)
 - Top 10 Real-Time Corporate Shell Scripts in DevOps — [Click Here](https://www.youtube.com/watch?v=aK-lkJTfUEc&t=1017s)
+- Linux commands for Cloud and DevOps engineers — [Click Here](https://www.youtube.com/watch?v=lCq4mYQL0WY)
+- Linux For DevOps In One Shot | Complete Beginners to Advanced Linux — [Click Here](https://www.youtube.com/watch?v=e01GGTKmtpc&t=1368s)
 ## Github Repository
 -  Linux Commands for DevOps — [Click Here](https://github.com/rcmehedi15/Beginner-Intermediate-and-Advanced-Linux-Commands-for-DevOps)
